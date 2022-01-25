@@ -26,12 +26,12 @@ address:
   street: 1088 XueYuan Avenue
   city: Shenzhen
   region: GuangDong
-  postcode: '518000'
+  postcode: '518055'
   country: China
   country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '22.5948'
+  longitude: '113.9992'
 directions: 
 # office_hours:
 #   - 'Monday 10:00 to 13:00'

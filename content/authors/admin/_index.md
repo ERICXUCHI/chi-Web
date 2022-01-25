@@ -69,8 +69,7 @@ email: "xuc2019@mail.sustech.edu.cn"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chi Xu is a Sophomore major in Computer Science and Engineering of Southern University of Science and Technology under the supervision of [Prof. Yepang Liu](https://yepangliu.github.io/). His research interests include software engineering and testing. Currently he is doing research in **Detecting webassembly VM vulnerability via fuzz testing**. He performs well academically and ranks top 10% of the major.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
