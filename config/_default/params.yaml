@@ -16,44 +16,49 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'https://twitter.com/EricBlack1616'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: xuc2019@mail.sustech.edu.cn
+# phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 1088 XueYuan Avenue
+  city: Shenzhen
+  region: GuangDong
+  postcode: '518000'
+  country: China
+  country_code: CN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+directions: 
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    link: 'https://twitter.com/EricBlack1616'
+  - icon: telegram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    link: https://t.me/ERICBLACK0000
+  - icon: github
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: https://github.com/ERICXUCHI  
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -69,7 +74,7 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '13:04'
 address_format: en-us
 
 # Site features
