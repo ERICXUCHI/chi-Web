@@ -50,7 +50,7 @@ social:
   link: https://github.com/ERICXUCHI
 - icon: gmail
   icon_pack: fab
-  link: mailto: exc1616@gmail.com
+  link: mailto:exc1616@gmail.com
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
