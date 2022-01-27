@@ -57,7 +57,7 @@ item:
   url: ""
 - certificate_url: http://www.mooctest.org/#/NoticeDetail/169
   date_end: ""
-  date_start: "2021-10-01"
+  date_start: "2021-10-14"
   description: ""
   organization: National Software Testing Contest
   organization_url: ''
@@ -65,7 +65,7 @@ item:
   url: "" 
 - certificate_url: http://www.mooctest.org/#/NoticeDetail/171
   date_end: ""
-  date_start: "2021-10-01"
+  date_start: "2021-10-18"
   description: ""
   organization: National Software Testing Contest
   organization_url: ''
