@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2020-04"
+  date_start: "2020-04-01"
   description: ""
   organization: Southern University of Science and Technology
   organization_url: https://www.sustech.edu.cn
