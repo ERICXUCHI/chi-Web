@@ -53,7 +53,7 @@ item:
   description: ""
   organization: Contemporary Undergraduate Mathematical Contest in Modeling
   organization_url: http://www.mcm.edu.cn/
-  title: The Second prize in Contemporary Undergraduate Mathematical Contest in Modeling in GuangDong province
+  title: The Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling in GuangDong province
   url: ""
 - certificate_url: http://www.mooctest.org/#/NoticeDetail/169
   date_end: ""
@@ -69,7 +69,7 @@ item:
   description: ""
   organization: National Software Testing Contest
   organization_url: ''
-  title: The third Prize of the National Software Testing Contest for College Students
+  title: The Third Prize of the National Software Testing Contest for College Students
   url: ""
 - certificate_url: 
   date_end: ""
