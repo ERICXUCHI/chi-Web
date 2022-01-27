@@ -28,7 +28,7 @@ item:
   date_start: "2020-04"
   description: ""
   organization: Southern University of Science and Technology
-  organization_url: https://www.sustech.edu.cn
+  organization_url: "https://www.sustech.edu.cn"
   title: Outstanding Student Leaders
   url: ""
 # - certificate_url: https://www.coursera.org
