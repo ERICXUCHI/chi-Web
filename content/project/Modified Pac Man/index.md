@@ -1,18 +1,20 @@
 ---
-title: Railway System
-summary: An example of using the in-built project page.
+title: Modified Pac Man
+summary: 
 tags:
-- PostgreSQL
-- Vuejs
-- SpringBoot
+- Unity3D
+- C#
+- Photon 
 - Python
-date: "2020-11-01T00:00:00Z"
+- MySQL
+- Probuilder
+date: "2021-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Example
   focal_point: Smart
 
 links:
@@ -20,10 +22,10 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -33,5 +35,5 @@ url_video: ""
 # slides: example
 ---
 
-- Outcome: Implemented a Railway System like 12306 in China, designed the relational table without redundancy, adding index and view, displayed by a front-end with Vue concisely, kept security and prevented SQL injection by procedure, trigger and transaction, proved reliable under high concurrency.
-- Assessment: Highest score project in curriculum of Database Principle.
+- Outcome: Implemented an online game adapted from Pac Man, all services deployed on servers, supported upload of AI scripts, beautiful UI with Photoshop and Probuilder.prevented SQL injection by procedure, trigger and transaction, proved reliable under high concurrency.
+- Assessment: Highest score project in curriculum of Oriented Object Analysis and Design, aimed to be deployed as a platform for curriculum of AI.
