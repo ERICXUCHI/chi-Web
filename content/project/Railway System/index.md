@@ -33,5 +33,6 @@ links:
 # slides: example
 ---
 
-- Outcome: Implemented a Railway System like 12306 in China, designed the relational table without redundancy, adding index and view, displayed by a front-end with Vue concisely, kept security and prevented SQL injection by procedure, trigger and transaction, proved reliable under high concurrency.
-- Assessment: Highest score project in curriculum of Database Principle.
+Outcome: Implemented a Railway System like 12306 in China, designed the relational table without redundancy, adding index and view, displayed by a front-end with Vue concisely, kept security and prevented SQL injection by procedure, trigger and transaction, proved reliable under high concurrency.
+
+Assessment: Highest score project in curriculum of Database Principle.

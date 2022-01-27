@@ -34,5 +34,6 @@ links:
 # slides: example
 ---
 
-- Goal: Aim to find some vulnerabilities via fuzz testing and research the solutions to fix them.
-- Progress: Analysing AST, studying and using Wasabi to implement instrumentation.
+Goal: Aim to find some vulnerabilities via fuzz testing and research the solutions to fix them.
+
+Progress: Analysing AST, studying and using Wasabi to implement instrumentation.

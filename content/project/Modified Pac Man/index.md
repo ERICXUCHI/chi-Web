@@ -35,5 +35,6 @@ links:
 # slides: example
 ---
 
-- Outcome: Implemented an online game adapted from Pac Man, all services deployed on servers, supported upload of AI scripts, beautiful UI with Photoshop and Probuilder.prevented SQL injection by procedure, trigger and transaction, proved reliable under high concurrency.
-- Assessment: Highest score project in curriculum of Oriented Object Analysis and Design, aimed to be deployed as a platform for curriculum of AI.
+Outcome: Implemented an online game adapted from Pac Man, all services deployed on servers, supported upload of AI scripts, beautiful UI with Photoshop and Probuilder.
+
+Assessment: Highest score project in curriculum of Oriented Object Analysis and Design, aimed to be deployed as a platform for curriculum of AI.
