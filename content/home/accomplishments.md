@@ -23,14 +23,63 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-# - certificate_url: https://www.coursera.org
-#   date_end: ""
-#   date_start: "2021-01-25"
-#   description: ""
-#   organization: Coursera
-#   organization_url: https://www.coursera.org
-#   title: Neural Networks and Deep Learning
-#   url: ""
+- certificate_url: ''
+  date_end: ""
+  date_start: "2020-04"
+  description: ""
+  organization: Southern University of Science and Technology
+  organization_url: https://www.sustech.edu.cn
+  title: Outstanding Student Leaders
+  url: ""
+- certificate_url: ''
+  date_end: ""
+  date_start: "2020-05"
+  description: ""
+  organization: Southern University of Science and Technology
+  organization_url: https://www.sustech.edu.cn
+  title: Excellent student representative of college
+  url: ""  
+- certificate_url: ''
+  date_end: ""
+  date_start: "2020-11"
+  description: ""
+  organization: Southern University of Science and Technology
+  organization_url: https://www.sustech.edu.cn
+  title: The First Class Scholarship of the University
+  url: ""
+- certificate_url: 'http://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/211007/1731619.shtml'
+  date_end: ""
+  date_start: "2021-09"
+  description: ""
+  organization: Contemporary Undergraduate Mathematical Contest in Modeling
+  organization_url: http://www.mcm.edu.cn/
+  title: The Second prize in Contemporary Undergraduate Mathematical Contest in Modeling in GuangDong province
+  url: ""
+- certificate_url: 'http://www.mooctest.org/#/NoticeDetail/169'
+  date_end: ""
+  date_start: "2021-10"
+  description: ""
+  organization: National Software Testing Contest
+  organization_url: ''
+  title: The Second Prize of the National Software Testing Contest for College Students in GuangDong province
+  url: "" 
+- certificate_url: 'http://www.mooctest.org/#/NoticeDetail/171'
+  date_end: ""
+  date_start: "2021-10"
+  description: ""
+  organization: National Software Testing Contest
+  organization_url: ''
+  title: The third Prize of the National Software Testing Contest for College Students
+  url: ""
+- certificate_url: ''
+  date_end: ""
+  date_start: "2021-11"
+  description: ""
+  organization: Southern University of Science and Technology
+  organization_url: https://www.sustech.edu.cn
+  title: The First Class Scholarship of the University
+  url: ""  
+
 # - certificate_url: https://www.edx.org
 #   date_end: ""
 #   date_start: "2021-01-01"
