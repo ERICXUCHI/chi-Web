@@ -22,6 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Co-maintainer and -developer of the [SUSTech Application](https://sustech-application.com)
+    company: SUSTech Application
+    company_url: 'https://sustech-application.com'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2020-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Maintain website
+        * Push posts
+
+  - title: Teaching Assistant of CS102A$:$ Introduction to Java Programming
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2021-02-01'
+    date_end: '2021-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Assign homework
+        * Answer questions
+
+    - title: Peer Mentor & Student Group Leader of Zhiren College
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2021-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Hold lecture
+        * Answer questions
+
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''
