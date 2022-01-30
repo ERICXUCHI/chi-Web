@@ -69,7 +69,7 @@ email: "xuc2019@mail.sustech.edu.cn"
 highlight_name: true
 ---
 
-Chi Xu is a Sophomore major in Computer Science and Engineering of Southern University of Science and Technology under the supervision of [Prof. Yepang Liu](https://yepangliu.github.io/). His research interests include software engineering and testing. Currently he is doing research in **Detecting webassembly VM vulnerability via fuzz testing**. He performs well academically and ranks top 10% of the major. For more detailed, please browse his resume.
+Chi Xu is a Sophomore major in Computer Science and Engineering of Southern University of Science and Technology under the supervision of [Prof. Yepang Liu](https://yepangliu.github.io/). His research interests include software engineering and testing. Currently he is doing research in **Detecting webassembly VM vulnerability via fuzz testing**. He performs well academically and ranks top 5% of the major. For more detailed, please browse his resume.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
