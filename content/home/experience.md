@@ -34,7 +34,31 @@ experience:
         
         * Maintain website
         * Push posts
-
+        * Answer questions
+  - title: Teaching Assistant of CS202$:$ Computer Science and Engineering
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2022-02-14'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assign homework
+        * Answer questions
+  - title: Teaching Assistant of CS307$:$ Principle of Database
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2022-02-14'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assign homework
+        * Answer questions
   - title: Teaching Assistant of CS102A$:$ Introduction to Java Programming
     company: SUSTech
     company_url: 'https://sustech.edu.cn'
