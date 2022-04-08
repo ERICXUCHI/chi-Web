@@ -47,6 +47,7 @@ experience:
         
         * Assign homework
         * Answer questions
+
   - title: Teaching Assistant of CS307$:$ Principle of Database
     company: SUSTech
     company_url: 'https://sustech.edu.cn'
@@ -59,6 +60,7 @@ experience:
         
         * Assign homework
         * Answer questions
+
   - title: Teaching Assistant of CS102A$:$ Introduction to Java Programming
     company: SUSTech
     company_url: 'https://sustech.edu.cn'
@@ -85,6 +87,17 @@ experience:
         * Hold lecture
         * Answer questions
 
+  - title: Campus Ambassador of CFF
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2022-04-07'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Broadcast lectures and activities of CFF
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''
