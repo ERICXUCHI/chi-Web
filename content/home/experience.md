@@ -35,7 +35,7 @@ experience:
         * Maintain website
         * Push posts
         * Answer questions
-  - title: Teaching Assistant of CS202$:$ Computer Orgnization and Design
+  - title: Teaching Assistant of CS202$:$ Computer Organization and Design
     company: SUSTech
     company_url: 'https://sustech.edu.cn'
     company_logo: 
