@@ -76,7 +76,7 @@ experience:
 
   - title: Software Intern, Carrier Network Business Group
     company: Huawei
-    company_url: 'https://sustech.edu.cn'
+    company_url: 'https://www.huawei.com/en/'
     company_logo: 
     location: Dong Guan
     date_start: '2021-06-10'
@@ -86,6 +86,7 @@ experience:
         
         * Maintain Website
         * Research new technologies
+
 
   - title: Teaching Assistant of CS102A$:$ Introduction to Java Programming
     company: SUSTech
