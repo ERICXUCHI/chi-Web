@@ -22,28 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Co-maintainer and -developer of the SUSTech Application
-    company: SUSTech Application
-    company_url: 'https://sustech-application.com'
-    company_logo: 
-    location: Shenzhen
-    date_start: '2020-06-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Maintain website
-        * Push posts
-        * Answer questions
 
-
-  - title: Teaching Assistant of CS102A$:$ Introduction to Java Programming
+  - title: Campus Ambassador of CFF
     company: SUSTech
     company_url: 'https://sustech.edu.cn'
     company_logo: 
     location: Shenzhen
-    date_start: '2021-02-01'
-    date_end: '2021-06-01'
+    date_start: '2022-04-07'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Broadcast lectures and activities of CFF
+
+  - title: Teaching Assistant of CS307$:$ Principle of Database
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2022-02-14'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assign homework
+        * Answer questions
+        
+  - title: Teaching Assistant of CS202$:$ Computer Organization and Design
+    company: SUSTech
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Shenzhen
+    date_start: '2022-02-14'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -62,43 +73,47 @@ experience:
         
         * Hold lecture
         * Answer questions
-  - title: Teaching Assistant of CS202$:$ Computer Organization and Design
+
+  - title: Software Intern, Carrier Network Business Group
+    company: Huawei
+    company_url: 'https://sustech.edu.cn'
+    company_logo: 
+    location: Dong Guan
+    date_start: '2021-06-10'
+    date_end: '2021-08-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Maintain Website
+        * Research new technologies
+
+  - title: Teaching Assistant of CS102A$:$ Introduction to Java Programming
     company: SUSTech
     company_url: 'https://sustech.edu.cn'
     company_logo: 
     location: Shenzhen
-    date_start: '2022-02-14'
-    date_end: ''
+    date_start: '2021-02-01'
+    date_end: '2021-06-01'
     description: |2-
         Responsibilities include:
         
         * Assign homework
         * Answer questions
 
-  - title: Teaching Assistant of CS307$:$ Principle of Database
-    company: SUSTech
-    company_url: 'https://sustech.edu.cn'
+  - title: Co-maintainer and -developer of the SUSTech Application
+    company: SUSTech Application
+    company_url: 'https://sustech-application.com'
     company_logo: 
     location: Shenzhen
-    date_start: '2022-02-14'
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Assign homework
+        * Maintain website
+        * Push posts
         * Answer questions
-        
-  - title: Campus Ambassador of CFF
-    company: SUSTech
-    company_url: 'https://sustech.edu.cn'
-    company_logo: 
-    location: Shenzhen
-    date_start: '2022-04-07'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Broadcast lectures and activities of CFF
+
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''
